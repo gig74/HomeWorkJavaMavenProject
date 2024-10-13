@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=org.example.maven -DartifactId=HomeWorkJavaMavenProject -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false -DarchetypeVersion=1.5
